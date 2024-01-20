@@ -1,6 +1,6 @@
 # Bayesian-Neural-Networks
 
-<img src="MLP_wo_dropout.png" width="45%" height="45%" alt="BNN" title="BNN"> <img src="BNN.png" width="45%" height="45%" alt="BNN" title="BNN">
+<img src="MLP_wo_dropout.png" width="42%" height="42%" alt="BNN" title="BNN"> <img src="BNN.png" width="45%" height="45%" alt="BNN" title="BNN">
 
 This repository aims at replicating results of the paper ["Weight Uncertainty in Neural Networks"](https://arxiv.org/pdf/1505.05424.pdf) by Blundell et al, 2015. In addition to that, we ra several experiments such as running the model on Out-of-Distribution Data or an Adversarial Attacks analysis. <br /> <br /> 
 This work was carried out as part of a project at the Technische Universität Berlin and in collaboration with Denis Semko Androsenko.<br /> <br />  Please consider the 3 documents covering our whole research study:
