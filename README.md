@@ -1,4 +1,4 @@
-# Bayesian Neural Networks
+# Bayesian Neural Networks : Weight Uncertainty in Neural Networks
 
 <img src="MLP_wo_dropout.png" width="39%" height="39%" alt="BNN" title="BNN"> <img src="BNN.png" width="45%" height="45%" alt="BNN" title="BNN">
 
