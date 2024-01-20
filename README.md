@@ -1,6 +1,8 @@
 # Bayesian-Neural-Networks
 
-This repository aims at replicating results of the paper ["Weight Uncertainty in Neural Networks"](https://arxiv.org/pdf/1505.05424.pdf) by Blundell et al, 2015. In addition to that, we ra several experiments such as running the model on Out-of-Distribution Data or an Adversarial Attacks analysis <br /> <br /> 
+
+
+This repository aims at replicating results of the paper ["Weight Uncertainty in Neural Networks"](https://arxiv.org/pdf/1505.05424.pdf) by Blundell et al, 2015. In addition to that, we ra several experiments such as running the model on Out-of-Distribution Data or an Adversarial Attacks analysis. <br /> <br /> 
 This work was carried out as part of a project at the Technische Universität Berlin and in collaboration with Denis Semko Androsenko.<br /> <br />  Please consider the 3 documents covering our whole research study:
 
 - Milestone 1 : [Datasets and Prototype](https://drive.google.com/file/d/1fMDC3b7RzEvIWKKDwLbuG6ANCpz-FVgu/view?usp=sharing)
